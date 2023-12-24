@@ -17,13 +17,13 @@ Like My Work?
 
 - 🚀 &nbsp; I’m currently learning AWS Development.
 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/superdev1218999).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lightsuperred).
 
-- 💬 &nbsp; Ask me about anything [here](https://superdev1218999.github.io)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://lightsuperred.github.io)! I am happy to help.
 
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
-- 📝 &nbsp; Checkout my [resume](https://github.com/superdev1218999/superdev1218999.github.io/tree/master/pdf/cv-PetarTrajkovic.pdf).
+- 📝 &nbsp; Checkout my [resume](https://cvdesignr.com/p/65855a7513097).
 
 ### My Absolute Favorites:
 
